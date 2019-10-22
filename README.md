@@ -1,9 +1,11 @@
+# Battleship - 3D
+
 Battleship game academic project.
 
 Created a JavaFx application and used 3D model to generate a 3D board.
 Online version of the game is supported. Used firebase to save game state.
 
-# Battleship - 3D
+
 
 ### Installing Maven (Mac Only)
 ```shell
