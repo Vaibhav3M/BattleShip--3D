@@ -25,3 +25,13 @@ brew install maven
 ```shell
 mvn exec:java -Dexec.mainClass="com.soen6441.battleship.app.AppWithGUI"
 ```
+
+## Few GUI screens
+
+ShipPlacement
+![PlayBoard](https://github.com/Vaibhav3M/BattleShip--3D/blob/master/GameGUI/BattleShip.png)
+
+Gameplay
+![PlayBoard](https://github.com/Vaibhav3M/BattleShip--3D/blob/master/GameGUI/Screen%20Shot%202020-01-17%20at%2012.07.28%20AM.png)
+
+![PlayBoard](https://github.com/Vaibhav3M/BattleShip--3D/blob/master/GameGUI/Screen%20Shot%202020-01-17%20at%2012.07.55%20AM.png)
